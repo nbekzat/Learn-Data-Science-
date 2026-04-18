@@ -5,6 +5,7 @@ The list of resources to learn Data Science
 
 <a href='https://www.datacamp.com/tutorial/how-to-become-a-data-scientist'>Become a Data Scientist in 8 steps</a> by DataCamp.com
  
+<a href='https://www.simplilearn.com/resources-to-learn-data-science-online-article'> 18 Best Resources to Learn Data Science Online in 2026</a>
 
 Article: <a href='https://web.archive.org/web/20170707131930/http://www.datascientists.net/what-is-data-science'>What is Data Science?</a>
 
@@ -32,6 +33,24 @@ Article by EAMONN O'NEILL: <a href='https://cloudtweaks.com/2025/02/thriving-in-
 Book: author Schutt, Rachel - Doing data science 
  
 Article in mckinsey: <a href='https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/big-data-the-next-frontier-for-innovation'>Big data: The next frontier for innovation, competition, and productivity</a>
+
+# Tech and Data Science blogs
+
+Following blogs focus on Data Science:
+ 
+<a href='https://www.kdnuggets.com'>kdnuggets.com </a>
+ 
+<a href='https://www.techtarget.com'> techtarget.com </a>
+ 
+<a href=' https://datafloq.com'> datafloq.com</a>
+ 
+<a href='https://dataconomy.com>dataconomy'></a>
+ 
+<a href='https://www.datascienceweekly.org'>datascienceweekly </a>
+ 
+<a href='https://www.bigdataframework.org'>bigdataframework</a>
+ 
+<a href=''> </a>
  
 DATA ANALYSTS + DATA SCIENTISTS <a href=''>THE DATA ANALYTICS HANDBOOK</a>
   
