@@ -1,7 +1,7 @@
 # Learn-Data-Science
 The list of resources to learn Data Science
 
-# Topic 1: What is Data Science?
+# What is Data Science?
 
 <a href='https://www.datacamp.com/tutorial/how-to-become-a-data-scientist'>Become a Data Scientist in 8 steps</a> by DataCamp.com
  
