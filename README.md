@@ -1,7 +1,7 @@
 # Learn-Data-Science
 The list of resources to learn Data Science
 
-# What is Data Science?
+# What is Data Science❓
 
 <a href='https://www.datacamp.com/tutorial/how-to-become-a-data-scientist'>Become a Data Scientist in 8 steps</a> by DataCamp.com
  
@@ -45,7 +45,7 @@ Article in mckinsey: <a href='https://www.mckinsey.com/capabilities/tech-and-ai/
 <a href='https://www.youtube.com/watch?v=hgWie9dnssU&t=2s'>Jennifer Golbeck: The curly fry conundrum: Why social media "likes" say more than you might think </a>
 
 
-# Tech and Data Science blogs
+# Tech and Data Science blogs 📰
 
 Blogs and newsletters with focus on Data Science:
  
@@ -64,7 +64,11 @@ Blogs and newsletters with focus on Data Science:
 <a href=''> </a>
  
   
- 
+# Data Wrangling 🧹
+
+coming soon ...
+
+скоро добавлю 🥱 ... 
 
 
 
