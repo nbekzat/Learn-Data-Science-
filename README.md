@@ -34,6 +34,17 @@ Book: author Schutt, Rachel - Doing data science
  
 Article in mckinsey: <a href='https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/big-data-the-next-frontier-for-innovation'>Big data: The next frontier for innovation, competition, and productivity</a>
 
+**Series of videos on Data Governance**
+
+<a href='https://www.youtube.com/watch?v=t4IOS5csv40&t=1s'>What is Data Governance?</a>
+
+<a href='https://www.youtube.com/watch?v=sHPY8zIhy60&t=8s'>What is Data Governance?</a>
+ 
+<a href=''> Eli Collins keynote: "Pax Data" -- Strata + Hadoop 2014</a>
+   
+<a href='https://www.youtube.com/watch?v=hgWie9dnssU&t=2s'>Jennifer Golbeck: The curly fry conundrum: Why social media "likes" say more than you might think </a>
+
+
 # Tech and Data Science blogs
 
 Blogs and newsletters with focus on Data Science:
