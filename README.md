@@ -67,9 +67,15 @@ Blogs and newsletters with focus on Data Science:
   
 # Data Wrangling 🧹
 
-coming soon ...
+Питон для начинающих https://www.youtube.com/watch?v=kqtD5dpn9C8&t=3s
 
-скоро добавлю 🥱 ... 
+Что такое Data Wrangling https://hevodata.com/learn/data-wrangling/
+
+Что такое pandas https://www.youtube.com/watch?v=dcqPhpY7tWk
+
+Документация питон https://docs.python.org/3/tutorial/
+
+Regular expression https://www.youtube.com/playlist?list=PL7C1EB31127AB8A0B
 
 # Data Visualization 📊
 
